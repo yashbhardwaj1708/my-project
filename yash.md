@@ -1,0 +1,41 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Profile</title>
+</head>
+<body>
+
+    <h1>Yash Bhardwaj</h1>
+
+    <h2>About Me</h2>
+    <p>Hello! My name is Yash Bhardwaj.</p>
+    <p>I am a student interested in technology and programming.</p>
+
+    <h2>My Education</h2>
+    <p>I am pursuing the IIT Madras BS program.</p>
+
+    <h2>My Skills</h2>
+    <ul>
+        <li>HTML Basics</li>
+        <li>Python Programming</li>
+        <li>Git and GitHub</li>
+    </ul>
+
+    <h2>My Hobbies</h2>
+    <ul>
+        <li>Learning new technologies</li>
+        <li>Coding</li>
+        <li>Exploring Data Science</li>
+    </ul>
+
+    <h2>My Goal</h2>
+    <p>I want to become a skilled programmer and build useful projects.</p>
+
+    <hr>
+
+    <p>Thank you for visiting my profile!</p>
+
+</body>
+</html>
+```
